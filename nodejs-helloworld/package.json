@@ -8,4 +8,7 @@
   "dependencies": {
     "express": "*"
   }
+  "scripts": {
+    "start" : "app.js"
+  }
 }
